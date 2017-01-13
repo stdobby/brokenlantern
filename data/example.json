@@ -1,0 +1,412 @@
+{
+  "version": "0.0.1",
+  "user": {
+    "name": "dobby"
+  },
+  "campaigns": [
+    {
+      "name": "The First Journey",
+      "settlement": {
+        "survival_limit": 1,
+        "name": "Atlantis",
+        "death_count": 0,
+        "lantern_year": 0,
+        "milestones": {
+          "new_life": false,
+          "death": false,
+          "society": false,
+          "hooded_knight": false,
+          "game_over": false
+        },
+        "nemesis_monsters": [
+          {
+            "name": "Butcher",
+            "level_1": false,
+            "level_2": false,
+            "level_3": false
+          },
+          {
+            "name": "King's Man",
+            "level_1": false,
+            "level_2": false,
+            "level_3": false
+          },
+          {
+            "name": "The Hand",
+            "level_1": false,
+            "level_2": false,
+            "level_3": false
+          }
+        ],
+        "innovations": {
+          "discovered": [],
+          "deck": []
+        },
+        "settlement_locations": [],
+        "principals": {
+          "new_life": null,
+          "death": null,
+          "society": null,
+          "conviction": null
+        },
+        "quarries": [],
+        "storage": {
+          "gear": [],
+          "resources": []
+        },
+        "defeated_monsters": [],
+        "population": [
+          {
+            "id": "1234123afsdfj2398fa98sfh3",
+            "name": "Allister",
+            "sex": "Male",
+            "deceased": false,
+            "survival": {
+              "points": 1,
+              "restricted": false,
+              "abilities": {
+                "dodge": true,
+                "encourage": false,
+                "surge": false,
+                "dash": false
+              }
+            },
+            "attributes": {
+              "movement": 5,
+              "accuracy": 0,
+              "strength": 0,
+              "evasion": 0,
+              "luck": 0,
+              "speed": 0
+            },
+            "brain": {
+              "insanity": 0,
+              "insane": false
+            },
+            "armor": {
+              "head": {
+                "armor": 0,
+                "heavy_injury": false
+              },
+              "arms": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "body": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "waist": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "legs": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              }
+            },
+            "hunt_xp": {
+              "xp": 0,
+              "retired": false
+            },
+            "weapon_proficiency": {
+              "type": null,
+              "xp": 0,
+              "specialist": false,
+              "master": false
+            },
+            "courage": {
+              "xp": 0,
+              "stalwart": false,
+              "prepared": false,
+              "matchmaker": false
+            },
+            "understanding": {
+              "xp": 0,
+              "analyze": false,
+              "explore": false,
+              "tinker": false
+            },
+            "fighting_arts": {
+              "arts": [],
+              "restricted": false
+            },
+            "disorders": [],
+            "abilities_and_impairments": {
+              "abilities": [],
+              "impairments": [],
+              "skip_next_hunt": false
+            },
+            "notes": []
+          },
+          {
+            "id": "12389fhasdfih23h98hafsfdh",
+            "name": "Erza",
+            "sex": "Female",
+            "deceased": false,
+            "survival": {
+              "points": 1,
+              "restricted": false,
+              "abilities": {
+                "dodge": true,
+                "encourage": false,
+                "surge": false,
+                "dash": false
+              }
+            },
+            "attributes": {
+              "movement": 5,
+              "accuracy": 0,
+              "strength": 0,
+              "evasion": 0,
+              "luck": 0,
+              "speed": 0
+            },
+            "brain": {
+              "insanity": 0,
+              "insane": false
+            },
+            "armor": {
+              "head": {
+                "armor": 0,
+                "heavy_injury": false
+              },
+              "arms": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "body": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "waist": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "legs": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              }
+            },
+            "hunt_xp": {
+              "xp": 0,
+              "retired": false
+            },
+            "weapon_proficiency": {
+              "type": null,
+              "xp": 0,
+              "specialist": false,
+              "master": false
+            },
+            "courage": {
+              "xp": 0,
+              "stalwart": false,
+              "prepared": false,
+              "matchmaker": false
+            },
+            "understanding": {
+              "xp": 0,
+              "analyze": false,
+              "explore": false,
+              "tinker": false
+            },
+            "fighting_arts": {
+              "arts": [],
+              "restricted": false
+            },
+            "disorders": [],
+            "abilities_and_impairments": {
+              "abilities": [],
+              "impairments": [],
+              "skip_next_hunt": false
+            },
+            "notes": []
+          },
+          {
+            "id": "238fjasf230jas8d9f328asdf",
+            "name": "Lucy",
+            "sex": "Female",
+            "deceased": false,
+            "survival": {
+              "points": 1,
+              "restricted": false,
+              "abilities": {
+                "dodge": true,
+                "encourage": false,
+                "surge": false,
+                "dash": false
+              }
+            },
+            "attributes": {
+              "movement": 5,
+              "accuracy": 0,
+              "strength": 0,
+              "evasion": 0,
+              "luck": 0,
+              "speed": 0
+            },
+            "brain": {
+              "insanity": 0,
+              "insane": false
+            },
+            "armor": {
+              "head": {
+                "armor": 0,
+                "heavy_injury": false
+              },
+              "arms": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "body": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "waist": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "legs": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              }
+            },
+            "hunt_xp": {
+              "xp": 0,
+              "retired": false
+            },
+            "weapon_proficiency": {
+              "type": null,
+              "xp": 0,
+              "specialist": false,
+              "master": false
+            },
+            "courage": {
+              "xp": 0,
+              "stalwart": false,
+              "prepared": false,
+              "matchmaker": false
+            },
+            "understanding": {
+              "xp": 0,
+              "analyze": false,
+              "explore": false,
+              "tinker": false
+            },
+            "fighting_arts": {
+              "arts": [],
+              "restricted": false
+            },
+            "disorders": [],
+            "abilities_and_impairments": {
+              "abilities": [],
+              "impairments": [],
+              "skip_next_hunt": false
+            },
+            "notes": []
+          },
+          {
+            "id": "38asfj83j8as0df023kas8d3j",
+            "name": "Zachary",
+            "sex": "Male",
+            "deceased": false,
+            "survival": {
+              "points": 1,
+              "restricted": false,
+              "abilities": {
+                "dodge": true,
+                "encourage": false,
+                "surge": false,
+                "dash": false
+              }
+            },
+            "attributes": {
+              "movement": 5,
+              "accuracy": 0,
+              "strength": 0,
+              "evasion": 0,
+              "luck": 0,
+              "speed": 0
+            },
+            "brain": {
+              "insanity": 0,
+              "insane": false
+            },
+            "armor": {
+              "head": {
+                "armor": 0,
+                "heavy_injury": false
+              },
+              "arms": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "body": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "waist": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              },
+              "legs": {
+                "armor": 0,
+                "light_injury": false,
+                "heavy_injury": false
+              }
+            },
+            "hunt_xp": {
+              "xp": 0,
+              "retired": false
+            },
+            "weapon_proficiency": {
+              "type": null,
+              "xp": 0,
+              "specialist": false,
+              "master": false
+            },
+            "courage": {
+              "xp": 0,
+              "stalwart": false,
+              "prepared": false,
+              "matchmaker": false
+            },
+            "understanding": {
+              "xp": 0,
+              "analyze": false,
+              "explore": false,
+              "tinker": false
+            },
+            "fighting_arts": {
+              "arts": [],
+              "restricted": false
+            },
+            "disorders": [],
+            "abilities_and_impairments": {
+              "abilities": [],
+              "impairments": [],
+              "skip_next_hunt": false
+            },
+            "notes": []
+          }
+        ]
+      },
+      "lost_settlements": []
+    }
+  ]
+}
